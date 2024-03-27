@@ -1,0 +1,42 @@
+*****************************
+Bank: TD, Institution #: 001
+*****************************
++ Branch-Succursale, Transit=32486 / Bells Corner, Ottawa, K2H 9S1 / Comptes traités=6
+  - Nouveau(x) compte(s) crée(s): 
+    Détenteur/Nom: John Travolta, Date de naissance: [18 février 1954], Nas: (678 901 234)/AccountNumber:324860015000033[saving, rate=4.0]/Balance: 0.0
+    Détenteur/Nom: John Travolta, Date de naissance: [18 février 1954], Nas: (678 901 234)/AccountNumber:324860015000027[saving, rate=4.0]/Balance: 0.0
+    Détenteur/Nom: John Travolta, Date de naissance: [18 février 1954], Nas: (678 901 234)/AccountNumber:324860015000014[chequing]/Balance: 0.0
+  - Compte(s) existant(s): 
+    Détenteur/Nom: Michael Jordan, Date de naissance: [17 février 1963], Nas: (999 999 999)/AccountNumber:324860011233456[chequing]/Balance: 800000.0
+    Détenteur/Nom: Michael Jordan, Date de naissance: [17 février 1963], Nas: (999 999 999)/AccountNumber:324860015678901[saving, rate=13.0]/Balance: 232323.0
+    Détenteur/Nom: Michael Jordan, Date de naissance: [17 février 1963], Nas: (999 999 999)/AccountNumber:324860011234567[saving, rate=10.0]/Balance: 90000.0
+
++ Branch-Succursale, Transit=32506 / Billings Bridge, Ottawa, K1H 8K2 / Comptes traités=18
+  - Nouveau(x) compte(s) crée(s): 
+    Détenteur/Nom: Caitlin Clark, Date de naissance: [22 janvier 2002], Nas: (234 567 890)/AccountNumber:325060015000209[saving, rate=5.0]/Balance: 0.0
+    Détenteur/Nom: Caitlin Clark, Date de naissance: [22 janvier 2002], Nas: (234 567 890)/AccountNumber:325060015000196[chequing]/Balance: 0.0
+    Détenteur/Nom: Caitlin Clark, Date de naissance: [22 janvier 2002], Nas: (234 567 890)/AccountNumber:325060015000188[chequing]/Balance: 0.0
+    Détenteur/Nom: Caitlin Clark, Date de naissance: [22 janvier 2002], Nas: (234 567 890)/AccountNumber:325060015000172[chequing]/Balance: 0.0
+    Détenteur/Nom: John Mayer, Date de naissance: [16 octobre 1977], Nas: (890 123 456)/AccountNumber:325060015000169[saving, rate=5.0]/Balance: 0.0
+    Détenteur/Nom: John Mayer, Date de naissance: [16 octobre 1977], Nas: (890 123 456)/AccountNumber:325060015000159[saving, rate=5.0]/Balance: 0.0
+    Détenteur/Nom: John Mayer, Date de naissance: [16 octobre 1977], Nas: (890 123 456)/AccountNumber:325060015000147[saving, rate=5.0]/Balance: 0.0
+    Détenteur/Nom: John Mayer, Date de naissance: [16 octobre 1977], Nas: (890 123 456)/AccountNumber:325060015000131[saving, rate=5.0]/Balance: 0.0
+    Détenteur/Nom: John Mayer, Date de naissance: [16 octobre 1977], Nas: (890 123 456)/AccountNumber:325060015000121[saving, rate=5.0]/Balance: 0.0
+    Détenteur/Nom: John Mayer, Date de naissance: [16 octobre 1977], Nas: (890 123 456)/AccountNumber:325060015000116[chequing]/Balance: 0.0
+    Détenteur/Nom: John Mayer, Date de naissance: [16 octobre 1977], Nas: (890 123 456)/AccountNumber:325060015000100[chequing]/Balance: 0.0
+    Détenteur/Nom: John Mayer, Date de naissance: [16 octobre 1977], Nas: (890 123 456)/AccountNumber:325060015000094[chequing]/Balance: 0.0
+    Détenteur/Nom: John Mayer, Date de naissance: [16 octobre 1977], Nas: (890 123 456)/AccountNumber:325060015000086[chequing]/Balance: 0.0
+    Détenteur/Nom: John Mayer, Date de naissance: [16 octobre 1977], Nas: (890 123 456)/AccountNumber:325060015000078[chequing]/Balance: 0.0
+    Détenteur/Nom: John Mayer, Date de naissance: [16 octobre 1977], Nas: (890 123 456)/AccountNumber:325060015000066[chequing]/Balance: 0.0
+    Détenteur/Nom: John Mayer, Date de naissance: [16 octobre 1977], Nas: (890 123 456)/AccountNumber:325060015000056[chequing]/Balance: 0.0
+    Détenteur/Nom: Pierre Thomas, Date de naissance: [23 mars 1990], Nas: (456 789 123)/AccountNumber:325060015000042[chequing]/Balance: 0.0
+  - Compte(s) existant(s): 
+    Détenteur/Nom: Marie Tremblay, Date de naissance: [1 juillet 1980], Nas: (123 456 789)/AccountNumber:325060011123456[chequing]/Balance: 2567.0
+
++ Branch-Succursale, Transit=32356 / Downtown, Ottawa, K1P 1A4 / Comptes traités=2
+  - Nouveau(x) compte(s) crée(s): 
+  - Compte(s) existant(s): 
+    Détenteur/Nom: Marie Tremblay, Date de naissance: [1 juillet 1980], Nas: (123 456 789)/AccountNumber:323560015678901[saving, rate=7.0]/Balance: 555.6
+    Détenteur/Nom: Marie Tremblay, Date de naissance: [1 juillet 1980], Nas: (123 456 789)/AccountNumber:323560014567812[chequing]/Balance: 450.0
+
+*****************************
