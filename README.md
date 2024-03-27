@@ -1,4 +1,4 @@
-# ITI1521 uOttawa
+# ITI1521 uOttawa - Prof: Livaniaina Rkotomalala
 
 # This folder's content is from the course ITI 1521 of Winter 2024. 
 
